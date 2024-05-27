@@ -1,0 +1,24 @@
+/* A very simple style to add some margin between instruction buttons */
+
+button {
+    margin: 5px 0 5px 0;
+    width: 200px;
+    font-size: 12px;
+    border-radius: 5px;
+    border-color: white;
+    padding: 15px;
+}
+
+#greenblue {
+    background-image: linear-gradient(rgb(92, 173, 92), rgb(47, 47, 201));
+    color: #fff;
+}
+
+#redgreen {
+    background-image: linear-gradient(rgb(223, 78, 85), rgb(92, 173, 92));
+    color: #fff;
+}
+#redblue {
+    background-image: linear-gradient(rgb(223, 78, 85), rgb(47, 47, 201));
+    color: #fff;
+}
